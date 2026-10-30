@@ -1,0 +1,16 @@
+{
+  "name": "lead",
+  "params": {
+    "drive_gain": 0.85,
+    "drive_tone": 0.55,
+    "drive_level": 0.4,
+    "eq_low": 0.45,
+    "eq_mid": 0.65,
+    "eq_high": 0.55,
+    "delay_time": 0.8,
+    "delay_feedback": 0.4,
+    "delay_mix": 0.25,
+    "reverb_size": 0.6,
+    "reverb_mix": 0.2
+  }
+}

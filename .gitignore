@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Áudio, datasets e modelos: pesados demais para o repositório
+*.wav
+*.flac
+*.mp3
+data/
+checkpoints/
+*.pt
+
+# Editores e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
